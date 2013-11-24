@@ -1,0 +1,14 @@
+{
+  "name": "bin-mount",
+  "version": "0.0.0",
+  "description": "Node Getty Replacement",
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  	"src-mount": "~0.1.0",
+  	"src-errno": "~0.1.0"
+  },
+  "bin": {
+    "mount": "mount.js"
+  }
+}
